@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Abhishek Alfred"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+EdgeLab, Information Systems Group, UC Irvine
+=====
+
+Abhishek Alfred is a PhD Candidate at UC Irvine. He is set to graduate in March 2025. He is advised by [Prof. Faisal Nawab](https://nawab.me). He specialized in Transaction processing Distributed data management systems. He is a Distributed Systems Engineer and Researcher with over a decade of experience in developing secure and high-performance data management systems. His work primarily involves creating database transaction processing systems that enhance the evolving Edge-Cloud infrastructure. His research aims to facilitate efficient application deployment on Edge devices, utilizing cloud management to ensure rapid data access.
+
+As a PhD candidate, he is focusing his thesis on Transaction Processing in Hybrid Edge-Cloud Data Management Systems. His collaboration with Prof. Faisal Nawab from the Information Systems Group at UC Irvine, has resulted in published papers in decentralized data management systems, blockchain applications, and Edge-Cloud databases. His published works have appeared in ACM SoCC, IEEE Conference on Blockchain, EDBT, IEEE INDICON, IEEE TenCon, IEEE International Advance Computing Conference (AICC), and IEEE Parallel Distributed and Grid Computing (PGDC)
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 A data-driven personal website
 ======
