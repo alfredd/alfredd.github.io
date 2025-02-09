@@ -1,7 +1,7 @@
 ---
 title: "TransEdge: Supporting Efficient Read Queries Across Untrusted Edge Nodes"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/transedge
 excerpt: 'This paper is was published and presented at EDBT 2023'
 date: 2023-03-31
 venue: 'EDBT'
