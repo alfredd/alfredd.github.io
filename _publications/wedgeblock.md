@@ -11,5 +11,3 @@ citation: 'Singh, Abhishek, Yinan Zhou, Sharad Mehrotra, Mohammad Sadoghi, Shant
 This work deals with building a secure off-chain log for applications that utilize the blockchain. We build a low cost off-chain log for high volume data which is provably secure based on digests stored on the blockchain. WedgeDB also creates a incentive and punishment mechanism utilizing a smart contract deployed on the blockchain to ensure that clients and the off-chain log don't maliciously write or manipulate data stored in the log.
 
 [Download paper here](https://openproceedings.org/2023/conf/edbt/3-paper-43.pdf)
-
-<!-- Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->
