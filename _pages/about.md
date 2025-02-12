@@ -13,7 +13,9 @@ EdgeLab, Information Systems Group, UC Irvine
 
 I am a PhD Candidate at UC Irvine set to graduate in March 2025. I am advised by [Prof. Faisal Nawab](https://nawab.me) of EdgeLab at UC Irvine. I specialize in Transaction processing in Distributed data management systems. I am a Distributed Systems Engineer and Researcher with over a decade of experience in developing secure and high-performance data management systems. My work primarily involves building transaction processing systems that take advantage of the evolving Edge-Cloud infrastructure. My research aims to facilitate efficient application deployment on Edge devices, utilizing cloud management to ensure rapid data access.
 
-My collaboration with Prof. Faisal Nawab from [EdgeLab](https://edgelab.ics.uci.edu/) at UC Irvine, has resulted in published papers in decentralized data management systems, blockchain applications, and Edge-Cloud databases. My published works have appeared in ACM SoCC, IEEE Conference on Blockchain, EDBT, IEEE INDICON, IEEE TenCon, IEEE International Advance Computing Conference (AICC), and IEEE Parallel Distributed and Grid Computing (PGDC)
+My collaboration with Prof. Faisal Nawab from [EdgeLab](https://edgelab.ics.uci.edu/) at UC Irvine, has resulted in published papers in decentralized data management systems, blockchain applications, and Edge-Cloud databases. My published works have appeared in ACM SoCC, IEEE Conference on Blockchain, EDBT, IEEE INDICON, IEEE TenCon, IEEE International Advance Computing Conference (AICC), and IEEE Parallel Distributed and Grid Computing (PGDC). The following diagram shows the scope of my research contributions.
+
+![Research Contributions](/images/research-work.png)
 
 Apart from my research work I have worked in the industry as a software engineer at Nokia, and have done internships at VMware and Alcatel-Lucent (Now Nokia). As a software engineer at Nokia, I worked on building high performance ETL pipelines for telecommunication sensor data for Nokia's Network management system. I also worked on designing, building and deploying new features for the Network management feature. 
 
